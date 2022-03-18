@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-   <h2> updated <h2> 
+   <h2> updated for 1 min <h2> 
 </form>
